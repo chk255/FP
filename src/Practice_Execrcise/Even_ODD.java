@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Even_ODD {
 
-	//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
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
